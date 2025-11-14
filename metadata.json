@@ -1,0 +1,19 @@
+{
+  "name": "MieAyam",
+  "symbol": "MIE",
+  "description": "Token edukasi - tidak untuk investasi.",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/bagastfu-debug/tes/main/mieyam.png",
+  "socials": {
+    "website": "",
+    "telegram": "",
+    "twitter": "",
+    "github": "https://github.com/bagastfu-debug/tes"
+  },
+  "extensions": {
+    "tonviewer": {
+      "displayName": "MieAyam"
+    }
+  }
+}
+
